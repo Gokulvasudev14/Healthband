@@ -18,5 +18,7 @@ HeartBeatSensorTEP.IDX
 HeartBeatSensorTEP.LIB
 HeartBeatSensorTEP2.HEX
 
+latest.ino is the Arduino program file.
+
 You Tube link:
 https://youtu.be/2ZFEiOF-aag
